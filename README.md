@@ -1,6 +1,10 @@
 # Mint NFT
 
-Follow the instructions on [Alchemy University](https://university.alchemypreview.com/course/ethereum/md/how-to-mint-nfts) to mint your own NFT!
+Simple contract to mint NFT - MHPUNK
+
+## Image
+
+![NFT Image](./nftMint.png)
 
 ## Changes
 
@@ -22,3 +26,7 @@ TypeError: RequestInit: duplex option is required when sending a body.
    at async Object.add (.../node_modules/ipfs-http-client/src/add.js:22:14)
    at async run (.../MintNFT/ipfs/upload.js:31:18)
 ```
+
+- NFT deployed to: 0xba0D23FCE386Ff845BD51C1F82492cf057aA8E11
+
+- [Link](https://sepolia.etherscan.io/tx/0x4c538e2b15fb4302f4a788ed5873323e93de212b9b8a4a3b1d3b3db98a961aca) to Etherscan
